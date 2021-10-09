@@ -32,7 +32,7 @@ That's how you can easily become a member of the GitHub Documentation community.
 
 ## READMEs
 
-In addition to the README you're reading right now, this repo includes other READMEs that describe the purpose of each subdirectory in more detail:
+In addition to the README you're reading right now, this repo includes other README'S that describe the purpose of each subdirectory in more detail:
 
 - [content/README.md](content/README.md)
 - [content/graphql/README.md](content/graphql/README.md)
